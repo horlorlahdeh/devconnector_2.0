@@ -1,0 +1,6 @@
+{
+  "mongoURI": "mongodb+srv://bait002:money2017@devconnector-dxfj7.mongodb.net/<dbname>?retryWrites=true&w=majority",
+  "jwtSecret": "mysecrettoken",
+  "githubClientId": "7218028865b59791bd0b",
+  "githubSecret": "fafe4e9251a5600e4054ad383eab9371b7409be1"
+}
