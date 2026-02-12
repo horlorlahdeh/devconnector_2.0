@@ -1,8 +1,8 @@
 /* Global Styles */
 :root {
-  --primary-color: #17a2b8;
-  --dark-color: #343a40;
-  --light-color: #f4f4f4;
+  --primary-color: #c96a1a;
+  --dark-color: #3a2416;
+  --light-color: #f8efe3;
   --danger-color: #dc3545;
   --success-color: #28a745;
 }
@@ -17,8 +17,8 @@ body {
   font-family: 'Raleway', sans-serif;
   font-size: 1rem;
   line-height: 1.6;
-  background-color: #fff;
-  color: #333;
+  background-color: #fff8f0;
+  color: #2f1f14;
 }
 
 a {
